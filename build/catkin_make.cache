@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/parallels/APC/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/APC/install -G Unix Makefiles
